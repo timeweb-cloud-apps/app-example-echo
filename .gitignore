@@ -1,0 +1,12 @@
+/app
+/main
+*.exe
+*.test
+*.out
+
+.idea/
+.vscode/
+.DS_Store
+
+.env
+.env.local
